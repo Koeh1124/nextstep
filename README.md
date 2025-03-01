@@ -59,6 +59,8 @@ It's good practice to build out any prerequisite modules before building out the
 
 ### Current and WIP Modules
 
+List of modules that are either currently released or are currently being worked on (repo and beta branch avalible)
+
 | Module name | Module Type | Language | State | Link |
 | ----------- | ----------- | -------- | ----- | ---- |
 | JavaScript | Language | JavaScript | WIP | TBA |
@@ -66,6 +68,8 @@ It's good practice to build out any prerequisite modules before building out the
 | API Project | Project | JavaScript | Project | WIP | TBA |
 
 ### Planned Modles and Expansions
+
+List of modules that are planned or in the backlogue, these may or may not have an exisiting private repo/branch
 
 | Module name | Module Type | Language | New or Expansion |
 | ----------- | ----------- | -------- | ----- |
@@ -77,8 +81,79 @@ It's good practice to build out any prerequisite modules before building out the
 
 ## Students
 
+Students and the student experiance should be our first, secound, and third priority.
+Taking down barriers to education of these topics is vidal to Nextech's goal of giving every student the oppritunity of experiancing the world of tech.
+Documenting the student experiance is as important as the content of this project itself.
+Without knowing how students interact with the material we will never know how to improve the material.
+One of the biggest driving forces for most of the project design is constant innovation and improvement.
+This is not only to keep up with the ever evolving world of tech but also to keep up with the ever evolving perception the students have of topics in tech.
+
+### Student Access
+
+
+
+### Student Feedback
+
+
+
+### Ideal Student Experiance
+
 
 
 ## Workflow
+
+General guideline for how the workflow for each given module should look like.
+Having a section to document this closely will make creating new modles and expansions go smoothly.
+This will also make it easy to add extra people to the project as this is designed to be highly parralelized and contained between modules.
+Desigining the workflow of the project this way should reduce the need for meetings, allowing people to put more time into perfecting the modules and creating the best student experiance as possible.
+
+### Moudle Templates
+
+There should be templates made for every level of each module.
+One for a gereneral module in a specific language, one for the specific type of module, one for the specific module itself.
+The gerneral module template will have information about diffrent testing methods, what works, what dosen't, why certian descions were made etc.
+The main purpose of this is to reduce friction when writing a new module in that language, weather it be a brand new modle or an expansion of an existing module.
+Having a template for each diffrent type of module ( Language, Topic, Project ) will allow making new modules of that type easier.
+We can document about how much time each level of the module should take, best practices for introducing students to that type of material, and more general guidlines to make sure all modules are cohesive.
+The Major goal with this type of template is to make the modules have the same level of relative difficulty and have gernerally the same vibe.
+Having a template for each diffrent topic and project will allow translation between languages to be easier.
+Doing this will make sure we cover the content in a similar order and have examples and test cases be around the same level as a module covering the same topic in a diffrent language.
+This is meant to make the student experiance better as one student will not feel like they are being punished by doing a topic in Java rather than doing it in Python.
+
+** We should also add a template for templates here :D **
+
+### Planning MOdules
+
+
+
+### Writing Modules
+
+
+
+### Moudle Release/Staging
+
+
+
+### Plannig Expansions
+
+
+
+### Writing Expansions
+
+
+
+### Expansion Release/Staging
+
+
+
+### Documentation
+
+
+
+### Bug Reporting
+
+
+
+### Matianace
 
 
