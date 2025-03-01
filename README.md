@@ -23,9 +23,9 @@ Students will be able to learn and grow ther skills both pre and post Catapult, 
 
 Each modlue is in one of three categories
 
-1. [Languages](./Modules/Languages/LANGUAGES.md)
-2. [Topics](./Modules/Topics/TOPICS.md)
-3. [Projects](./Modules/Projects/PROJECTS.md)
+1. [Languages](./Modules/language_modules/LANGUAGES.md)
+2. [Topics](./Modules/topic_modules/TOPICS.md)
+3. [Projects](./Modules/project_modules/PROJECTS.md)
 
 
 
